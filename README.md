@@ -8,7 +8,7 @@ Forecasting Russian inflation using Random Forest, LASSO, and LDA on 96,000 news
 
 ### Market Basket Analysis (Retail)  
 Identified purchase patterns using the Apriori algorithm.  
-**Tech**: Python, mlxtend   
+**Tech**: Python, apriori   
 
 
 Email: pileckavladislava@gmail.com  
